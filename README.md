@@ -39,7 +39,7 @@ Ensure all your files are sitting together in a single flat directory list:
 *   `SedurimClr.png` (Color texture map)
 *   `SedurimHeight.png` (Terrain elevation map)
 *   `SedurimNrm.png` (Lighting normal map)
-*   `Nibirum.jpg` (Brown dwarf gas texture map)
+*   `Nibirum.JPG` (Brown dwarf gas texture map)
 
 ### 🚀 Setup Steps
 1. Make sure you have **Kopernicus** and its required dependencies installed in your KSP directory.
