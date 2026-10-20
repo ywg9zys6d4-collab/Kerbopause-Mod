@@ -35,7 +35,6 @@ Hello! To test these custom planets and spheres in-game, please follow these fil
 Ensure all your files are sitting together in a single flat directory list:
 *   `Sedurim.cfg` (Planet parameters)
 *   `Nibirum.cfg` (Rogue giant parameters)
-*   `SpaceSpheres.cfg` (Procedural 3D Atmosphere codes for the boundaries)
 *   `SedurimClr.png` (Color texture map)
 *   `SedurimHeight.png` (Terrain elevation map)
 *   `SedurimNrm.png` (Lighting normal map)
